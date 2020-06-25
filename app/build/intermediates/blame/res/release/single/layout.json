@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_users.xml",
+        "source": "C:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\layout\\fragment_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_create_user.xml",
+        "source": "C:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\layout\\fragment_create_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_single_user.xml",
+        "source": "C:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\src\\main\\res\\layout\\fragment_single_user.xml"
+    }
+]

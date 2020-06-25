@@ -1,0 +1,4 @@
+#Tue Jun 23 16:25:37 EET 2020
+base.0=C\:\\Users\\gurka\\AndroidStudioProjects\\MyProject\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
